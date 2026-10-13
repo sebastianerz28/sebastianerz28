@@ -19,6 +19,6 @@ observable, so I can understand it, replay it, and build something useful around
   it build here but not there?” Captures two machines' build environments and ranks
   the differences most likely to cause failures.
 
-Mostly working with **C# / .NET · Swift · Elixir / Phoenix · TypeScript**.
+Mostly working with **C# / .NET · Swift · Elixir / Phoenix · TypeScript · Python**.
 
 [LinkedIn](https://www.linkedin.com/in/sebastianerz28/) · [Rack](https://rackpool.app)
