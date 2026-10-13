@@ -1,5 +1,7 @@
 # Sebastian Ramirez
 
+<img src="assets/accent.svg" width="720" height="12" alt="" />
+
 **Agents, simulations, and physical systems.**
 
 I build software to explore how systems behave: agents making decisions, feedback
